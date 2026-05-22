@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "مرحبتين",
+    "description": "تطبيق حجز الاستراحات اليومي",
+    "slogan": "احجز استراحتك المفضلة بسهولة"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "search": "ابحث عن استراحة",
+    "myBookings": "حجوزاتي",
+    "dashboard": "لوحة التحكم",
+    "profile": "الملف الشخصي",
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "إنشاء حساب"
+  },
+  "auth": {
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "location": "مكان الإقامة",
+    "passportNumber": "رقم جواز السفر",
+    "profileImage": "صورة الملف الشخصي",
+    "passportImage": "صورة جواز السفر",
+    "userType": "نوع الحساب",
+    "guest": "نزيل",
+    "restowner": "صاحب استراحة",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "haveAccount": "هل لديك حساب بالفعل؟",
+    "noAccount": "ليس لديك حساب؟"
+  },
+  "booking": {
+    "searchResorts": "ابحث عن استراحات",
+    "checkIn": "تاريخ الدخول",
+    "checkOut": "تاريخ المغادرة",
+    "guests": "عدد النزلاء",
+    "search": "ابحث",
+    "price": "السعر",
+    "perNight": "لليلة الواحدة",
+    "availability": "التوفر",
+    "available": "متاح",
+    "notAvailable": "غير متاح",
+    "book": "احجز الآن",
+    "totalPrice": "السعر الإجمالي",
+    "status": "الحالة",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "rejected": "مرفوض",
+    "cancelled": "ملغي"
+  },
+  "resort": {
+    "name": "اسم الاستراحة",
+    "description": "الوصف",
+    "location": "الموقع",
+    "capacity": "السعة الاستيعابية",
+    "amenities": "الخدمات",
+    "images": "الصور",
+    "rating": "التقييم",
+    "reviews": "المراجعات"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "نجح",
+    "warning": "تحذير",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "messages": {
+    "welcomeBack": "أهلا وسهلا",
+    "loginSuccess": "تم تسجيل الدخول بنجاح",
+    "registerSuccess": "تم إنشاء الحساب بنجاح",
+    "bookingSuccess": "تم إرسال طلب الحجز بنجاح",
+    "updateSuccess": "تم التحديث بنجاح",
+    "deleteSuccess": "تم الحذف بنجاح"
+  }
+}
